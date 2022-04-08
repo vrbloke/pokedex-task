@@ -1,4 +1,4 @@
-##To run the project:
+## To run the project:
 
 In the project directory, run `npm install`, and then `npm start` once all dependencies are in place.
 
