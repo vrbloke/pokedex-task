@@ -5,7 +5,6 @@ const initialState = {
     no_loaded: 0,
     total_available: 0,
   listItems : [],
-  filters: null // Move this to FilterBarSlice if it ever exists
 };
 
 export const listSlice = createSlice({
