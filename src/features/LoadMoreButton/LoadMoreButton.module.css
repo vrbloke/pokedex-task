@@ -1,0 +1,11 @@
+.bt {
+    min-width: 10vw;
+    margin: 1rem;
+}
+
+.outer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
